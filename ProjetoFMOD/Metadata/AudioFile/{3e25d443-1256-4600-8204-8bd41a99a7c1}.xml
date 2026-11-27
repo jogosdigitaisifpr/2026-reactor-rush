@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{3e25d443-1256-4600-8204-8bd41a99a7c1}">
+		<property name="assetPath">
+			<value>Radio Interference.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>25.901791383219955</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{94a3f9b5-aca1-4a29-9f80-fa5ba7affea6}</destination>
+		</relationship>
+	</object>
+</objects>

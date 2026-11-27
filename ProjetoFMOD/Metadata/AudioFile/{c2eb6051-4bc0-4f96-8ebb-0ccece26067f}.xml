@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c2eb6051-4bc0-4f96-8ebb-0ccece26067f}">
+		<property name="assetPath">
+			<value>mid creak 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.44562499999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{94a3f9b5-aca1-4a29-9f80-fa5ba7affea6}</destination>
+		</relationship>
+	</object>
+</objects>

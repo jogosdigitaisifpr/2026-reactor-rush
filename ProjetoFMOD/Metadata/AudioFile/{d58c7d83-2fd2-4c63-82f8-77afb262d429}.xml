@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d58c7d83-2fd2-4c63-82f8-77afb262d429}">
+		<property name="assetPath">
+			<value>elevador.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>21.696417233560091</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{94a3f9b5-aca1-4a29-9f80-fa5ba7affea6}</destination>
+		</relationship>
+	</object>
+</objects>

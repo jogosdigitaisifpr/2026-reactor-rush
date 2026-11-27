@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{bdae3188-4007-474b-a724-356de41a7366}">
+		<property name="name">
+			<value>waterleaking</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5f897bd1-c94b-4720-809a-5ee77bdcfcda}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{17f3c629-0493-4b70-bbf3-d3bc565b7fb2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{17f3c629-0493-4b70-bbf3-d3bc565b7fb2}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

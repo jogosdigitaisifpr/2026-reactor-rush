@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{36467bae-ab58-4031-818f-28c9464810fb}">
+		<property name="name">
+			<value>flood</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5f897bd1-c94b-4720-809a-5ee77bdcfcda}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1bd6d077-e59a-457b-81ca-60833cae0cba}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1bd6d077-e59a-457b-81ca-60833cae0cba}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
