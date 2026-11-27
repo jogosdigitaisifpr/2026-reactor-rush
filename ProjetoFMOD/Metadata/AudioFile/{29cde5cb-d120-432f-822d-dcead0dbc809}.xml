@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{29cde5cb-d120-432f-822d-dcead0dbc809}">
+		<property name="assetPath">
+			<value>freesound_community-breaker-switch-45684.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.248</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{94a3f9b5-aca1-4a29-9f80-fa5ba7affea6}</destination>
+		</relationship>
+	</object>
+</objects>

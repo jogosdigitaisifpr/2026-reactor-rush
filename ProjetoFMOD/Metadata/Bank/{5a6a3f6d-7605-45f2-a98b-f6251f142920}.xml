@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Bank" id="{5a6a3f6d-7605-45f2-a98b-f6251f142920}">
+		<property name="name">
+			<value>Refil</value>
+		</property>
+		<relationship name="folder">
+			<destination>{37009267-e61b-4676-a60f-9c7ea34a0688}</destination>
+		</relationship>
+	</object>
+</objects>

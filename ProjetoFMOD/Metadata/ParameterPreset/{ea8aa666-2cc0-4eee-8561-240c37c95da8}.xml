@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{ea8aa666-2cc0-4eee-8561-240c37c95da8}">
+		<property name="name">
+			<value>steam leak</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5f897bd1-c94b-4720-809a-5ee77bdcfcda}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{910190b1-ba82-4aae-92b5-c89678d07a23}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{910190b1-ba82-4aae-92b5-c89678d07a23}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

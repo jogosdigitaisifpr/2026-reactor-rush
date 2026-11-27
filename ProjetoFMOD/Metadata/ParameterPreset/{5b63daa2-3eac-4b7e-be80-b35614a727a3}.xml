@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{5b63daa2-3eac-4b7e-be80-b35614a727a3}">
+		<property name="name">
+			<value>manete</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5f897bd1-c94b-4720-809a-5ee77bdcfcda}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d0b786e0-0cef-4b8f-a430-9aa1924ab59b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d0b786e0-0cef-4b8f-a430-9aa1924ab59b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
